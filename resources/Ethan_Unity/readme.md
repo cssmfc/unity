@@ -1,15 +1,12 @@
 ![cover](https://raw.githubusercontent.com/cssmfc/unity/master/resources/Ethan_Unity/ethan_cover.jpg)
 
 # Ethan - From White to Colored #
-Ethan is a 3rd person character which comes with Unity's Standard Assets, unfortunateley comes in white and gray.
-
-This package is ment to change that, add a bit of color to Ethan.
-
+Ethan is a 3rd person character which comes with Unity's Standard Assets, unfortunately comes in white and gray.
+This package is meant to change that, add a bit of color to Ethan.
 
 ## How to use ##
 - create new material and add your favorite version of texture to both Albedo and Occlusion
-- assign the new matterial to EthanBody
-
+- assign the new material to EthanBody
 Only the EthanOcclusion# was edited not the normal map so no need to replace that, it can stay as it is, the default one.
 
 Might not be the best resources but I like a spot of color in my projects.
